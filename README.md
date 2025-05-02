@@ -14,7 +14,7 @@
 ### 🚀 Projects
 | Name | Description | Link |
 |------|-------------|------|
-| **Minecraft Clone** | A 3D voxel sandbox game created in Unity with block placing, chunk loading, custom terrain generation | [GitHub Repo](https://github.com/yourname/minecraft-clone) |
+| **Minecraft Clone** | A 3D voxel sandbox game created in Unity | [GitHub Repo]([https://github.com/yourname/minecraft-clone](https://github.com/Wargencob/MinecraftCloneUnity)) |
 
 ### 📈 GitHub Stats
 <p align="center">
