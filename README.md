@@ -18,9 +18,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Gleb's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wargencomb&show_icons=true&theme=tokyonight" alt="Gleb's GitHub stats"/>
 </p>
 
 ### 📫 Contact Me
-- 📧 Email: your.email@example.com
-- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)
+- 📧 Email: gleb.vasilev.14@bk.ru
+- 💬 Telegram: [@yourhandle](https://t.me/Xleb20001)
