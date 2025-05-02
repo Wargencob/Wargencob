@@ -1,6 +1,26 @@
-## 1. About me
-- :wave: Hi, my name is Gleb, my pseudonym is Wargencomb, I am a C# programmer specializing in Unity, game development and many other things. :blush:
-- :mortar_board: I am currently studying at the Moscow State University of Civil Engineering with a degree in applied mathematics.
-- :wink: Some interesting facts: Strangely enough, I love mathematics, I study probability theory, linear algebra, group theory and topology in depth (as a hobby), I play the guitar, read fantasy
-## 2. My projects
-  - Minecraft clone on Unity
+<h1 align="center">Hi, I'm Gleb (aka Wargencomb) 👋</h1>
+
+### 🎯 About Me
+- 🧠 Passionate C# developer with a focus on **Unity** and **game development**
+- 🎓 Studying **Applied Mathematics** at Moscow State University of Civil Engineering
+- 🤓 Deeply interested in: **probability theory**, **linear algebra**, **group theory**, **topology**
+- 🎸 I also play guitar and read fantasy novels in my spare time
+
+### 💼 Skills
+- 🧩 **Languages:** C#, Python, С, C++
+- 🛠 **Tools & Frameworks:** Unity, Git, Visual Studio, Blender (basic), Qt
+- 📚 **Concepts:** OOP, gamedev, custom physics
+
+### 🚀 Projects
+| Name | Description | Link |
+|------|-------------|------|
+| **Minecraft Clone** | A 3D voxel sandbox game created in Unity with block placing, chunk loading, custom terrain generation | [GitHub Repo](https://github.com/yourname/minecraft-clone) |
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Gleb's GitHub stats"/>
+</p>
+
+### 📫 Contact Me
+- 📧 Email: your.email@example.com
+- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)
