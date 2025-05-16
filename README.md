@@ -23,4 +23,4 @@
 
 ### 📫 Contact Me
 - 📧 Email: gleb.vasilev.14@bk.ru
-- 💬 Telegram: [@Xleb20001](https://t.me/Xleb20001)
+- 💬 Telegram: [@Wargencomb](https://t.me/Wargencomb)
