@@ -7,9 +7,9 @@
 - 🎸 I also play guitar and read fantasy novels in my spare time
 
 ### 💼 Skills
-- 🧩 **Languages:** C#, Python, С, C++
+- 🧩 **Languages:** C#, Python, С, C++, JS
 - 🛠 **Tools & Frameworks:** Unity, Git, Visual Studio, Blender (basic), Qt
-- 📚 **Concepts:** OOP, gamedev, custom physics
+- 📚 **Concepts:** OOP, gamedev, custom physics, restful API
 
 ### 🚀 Projects
 | Name | Description | Link |
