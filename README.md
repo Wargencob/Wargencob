@@ -8,7 +8,7 @@
 
 ### 💼 Skills
 - 🧩 **Languages:** C#, Python, С, C++, JS
-- 🛠 **Tools & Frameworks:** Unity, Git, Visual Studio, Blender (basic), Qt
+- 🛠 **Tools & Frameworks:** Unity, Git, Visual Studio, Blender (basic), Qt, nodejs
 - 📚 **Concepts:** OOP, gamedev, custom physics, restful API
 
 ### 🚀 Projects
